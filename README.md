@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @diksha785
-- 👀 I’m interested in computer science 
 
 
 
