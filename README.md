@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diksha785
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in computer science 
 
 
 
